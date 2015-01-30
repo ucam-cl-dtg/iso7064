@@ -9,14 +9,14 @@
 
   <groupId>com.github.danieltwagner</groupId>
   <artifactId>iso7064</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>iso7064</name>
   <scm>
     <connection>scm:git:git@github.com:ucam-cl-dtg/iso7064.git</connection>
     <developerConnection>scm:git:git@github.com:ucam-cl-dtg/iso7064.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>iso7064-1.0.1</tag>
   </scm>
 
   <properties>
